@@ -1,6 +1,6 @@
 # Port
 "Seaport" + window application.
-Data:
+Data:\n
 :point_right: name and address of the port;
 :point_right: number of workers;
 :point_right: number of units of equipment;
