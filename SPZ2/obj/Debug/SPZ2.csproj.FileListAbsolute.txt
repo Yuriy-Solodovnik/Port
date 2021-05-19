@@ -1,0 +1,11 @@
+D:\VS_Programs\SPZ2\SPZ2\bin\Debug\SPZ2.exe.config
+D:\VS_Programs\SPZ2\SPZ2\bin\Debug\SPZ2.exe
+D:\VS_Programs\SPZ2\SPZ2\bin\Debug\SPZ2.pdb
+D:\VS_Programs\SPZ2\SPZ2\obj\Debug\SPZ2.csprojAssemblyReference.cache
+D:\VS_Programs\SPZ2\SPZ2\obj\Debug\SPZ2.Properties.Resources.resources
+D:\VS_Programs\SPZ2\SPZ2\obj\Debug\SPZ2.csproj.GenerateResource.cache
+D:\VS_Programs\SPZ2\SPZ2\obj\Debug\SPZ2.csproj.CoreCompileInputs.cache
+D:\VS_Programs\SPZ2\SPZ2\obj\Debug\SPZ2.exe
+D:\VS_Programs\SPZ2\SPZ2\obj\Debug\SPZ2.pdb
+D:\VS_Programs\SPZ2\SPZ2\obj\Debug\SPZ2.Form1.resources
+D:\VS_Programs\SPZ2\SPZ2\obj\Debug\SPZ2.PortForm.resources
